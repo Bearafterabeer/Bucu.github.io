@@ -1,0 +1,51 @@
+body {
+  background-color: #F7FFF7;
+  padding-top: 85px;
+}
+
+h1 {
+  text-align: center;
+}
+
+footer {
+  text-align: center;
+}
+
+.note {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+#top {
+  background-color: #1A535C;
+  color: #fff;
+  padding: 20px 0px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 100;
+}
+
+h1 {
+  font-size: 31px;
+  text-shadow: 0 2px 12px #07191C;
+}
+
+.blogpost {
+  background-color: #fff;
+  margin-bottom: 20px;
+  padding: 20px 10px;
+  border: 1px solid rgba(0,0,0,.125);
+}
+.blogpost h2 {
+  font-size: 21px;
+  line-height: 25px;
+}
+.blogpost h2 a {
+  color: #FF6B6B;
+}
+
+.blogpost-date {
+  color: #969B96;
+}
